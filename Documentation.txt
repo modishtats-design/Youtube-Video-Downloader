@@ -1,0 +1,33 @@
+Features of the Streamlit App
+
+🎨 Beautiful Interface
+Custom CSS styling with YouTube-inspired red theme
+Responsive layout with sidebar for options
+Clean, modern design with shadows and gradients
+
+🔧 Functionality
+Video Info Preview: Shows thumbnail, title, duration, views, and description
+Multiple Quality Options: Highest quality, 1080p, 720p, 480p, 360p, Audio-only
+Subtitle Support: Optional subtitle download
+Progress Tracking: Visual progress bar during download
+File Download: Direct download through browser
+
+📱 User Experience
+Sidebar Controls: Easy access to download options
+Real-time Feedback: Status updates and error handling
+Cache Management: Clear cache functionality
+Instructions: Built-in help and supported formats
+🛠️ Advanced Features
+
+Session State Management: Maintains video info across interactions
+Temporary File Handling: Secure temporary file management
+Error Handling: Comprehensive error messages and recovery
+File Size Display: Shows downloaded file information
+
+🎯 Quick Actions
+One-click video info retrieval
+Instant download with selected quality
+Cache clearing for performance
+Settings overview in sidebar
+
+The application provides a professional, user-friendly interface that makes downloading YouTube videos as simple as pasting a URL and clicking download!
